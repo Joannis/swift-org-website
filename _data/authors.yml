@@ -539,3 +539,15 @@ incertum:
   email: mkilby@apple.com
   github: incertum
   about: "Melissa Kilby works on the Swift for Linux Server team at Apple."
+
+marcprux:
+  name: Marc Prud'hommeaux
+  email: marc@skip.tools
+  github: marcprux
+  about: "Marc Prud'hommeaux is a member of the Android Workgroup and works at Skip on Swift for Android."
+
+finagolfin:
+  name: Finagolfin
+  email: finagolfin@tuta.io
+  github: finagolfin
+  about: "Finagolfin is a member of the Android Workgroup, working on Android support in SwiftPM, the compiler and more."
